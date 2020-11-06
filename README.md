@@ -6,3 +6,4 @@
 4. Staging: git add file(s) or git add .
 5. Commit: git commit -m "your description of the commit"
 6. Publish to origin: git push
+7. New line
